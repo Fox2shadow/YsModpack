@@ -1,0 +1,242 @@
+[15:23:05] [main/INFO]: LiteLoader 1.12.2 starting up...
+[15:23:05] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+[15:23:05] [main/INFO]: Java reports OS="windows 7"
+[15:23:06] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[15:23:06] [main/INFO]: Enumerating class path...
+[15:23:06] [main/INFO]: Class path separator=";"
+[15:23:06] [main/INFO]: Class path entries=(
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.4.2739\forge-1.12.2-14.23.4.2739.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar
+   classpathEntry=E:\AiL-1981\1.12.2\.minecraft\versions\1.12.2-forge1.12.2-14.23.4.2739\1.12.2-forge1.12.2-14.23.4.2739.jar
+)
+[15:23:06] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[15:23:06] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\AiL-1981\1.12.2\.minecraft\mods]
+[15:23:06] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\AiL-1981\1.12.2\.minecraft\mods\1.12.2]
+[15:23:06] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@668625f5]
+[15:23:06] [main/INFO]: Discovering valid mod files in folder E:\AiL-1981\1.12.2\.minecraft\mods
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'BC建筑 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\BC建筑 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'ChickenChunks 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\ChickenChunks 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\CodeChickenLib 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'CoFHCore 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\CoFHCore 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'Forgelin 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\Forgelin 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'IC2实验版 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\IC2实验版 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'IC2扩展 高级太阳能 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\IC2扩展 高级太阳能 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'IC2扩展 高级机械 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\IC2扩展 高级机械 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'JEI-sources 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\JEI-sources 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'LiteLoader 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\LiteLoader 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'MC虚拟机 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\MC虚拟机 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'modelloader 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\modelloader 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'NEI物品管理 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\NEI物品管理 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in 'PORTAL方块 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\PORTAL方块 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '内存优化 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\内存优化 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '图特斯的电梯 1.12.2..jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\图特斯的电梯 1.12.2..jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '图特斯的电梯 前置 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\图特斯的电梯 前置 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '工业复兴 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\工业复兴 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '开源计算机 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\开源计算机 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '彩色灯光 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\彩色灯光 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '无线开关 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\无线开关 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '更多的告示牌 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\更多的告示牌 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '更多的门 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\更多的门 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '更多的门 前置 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\更多的门 前置 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '林业 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\林业 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '沉浸工艺 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\沉浸工艺 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '沉浸科技 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\沉浸科技 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '真实地形生成 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\真实地形生成 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '红石通量 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\红石通量 1.12.2.jar
+[15:23:06] [main/INFO]: Inspecting jar metadata in '高清修复 E3 1.12.2.jar'
+[15:23:06] [main/INFO]: Ignoring E:\AiL-1981\1.12.2\.minecraft\mods\高清修复 E3 1.12.2.jar
+[15:23:06] [main/INFO]: Discovering valid mod files in folder E:\AiL-1981\1.12.2\.minecraft\mods\1.12.2
+[15:23:06] [main/INFO]: Discovering tweaks on class path...
+[15:23:06] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[15:23:06] [main/INFO]: Registering discovered mod files in folder E:\AiL-1981\1.12.2\.minecraft\mods
+[15:23:06] [main/INFO]: Registering discovered mod files in folder E:\AiL-1981\1.12.2\.minecraft\mods\1.12.2
+[15:23:06] [main/INFO]: Initialising LiteLoader Mixins
+[15:23:06] [main/INFO]: LiteLoader PREINIT complete
+[15:23:09] [main/INFO]: FML detected, switching to searge mappings
+[15:23:21] [main/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[15:23:21] [main/INFO]: Successfully generated event handler proxy class with 2 handlers(s) and 2 total invocations
+[15:24:57] [main/INFO]: JInput Component Registry is initialising...
+[15:24:58] [main/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[15:24:58] [main/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[15:24:58] [main/INFO]: Inspecting Unknown controller ·ûºÏ HID ±ê׼µÄÓû§ on Unknown...
+[15:24:58] [main/INFO]: Inspecting Unknown controller HID-compliant device on Unknown...
+[15:24:58] [main/INFO]: JInput Component Registry initialised, found 4 controller(s) 156 component(s)
+[15:24:58] [main/INFO]: LiteLoader begin INIT...
+[15:24:58] [main/INFO]: Baking listener list for CoreProvider with 2 listeners
+[15:24:58] [main/INFO]: Injecting external mods into class path...
+[15:24:58] [main/INFO]: Injecting external mods into class path...
+[15:24:58] [main/INFO]: Discovering mods on class path...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.4.2739\forge-1.12.2-14.23.4.2739.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar...
+[15:24:58] [main/INFO]: Searching E:\AiL-1981\1.12.2\.minecraft\versions\1.12.2-forge1.12.2-14.23.4.2739\1.12.2-forge1.12.2-14.23.4.2739.jar...
+[15:24:58] [main/INFO]: Discovering mods in valid mod files...
+[15:24:58] [main/INFO]: Discovering mods in valid mod files...
+[15:24:58] [main/INFO]: Mod class discovery completed
+[15:24:58] [main/INFO]: LiteLoader begin POSTINIT...
+[15:24:58] [main/INFO]: Inhibiting sound handler reload
+[15:24:58] [main/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[15:24:58] [main/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[15:24:59] [main/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[15:24:59] [main/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[15:24:59] [main/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[15:24:59] [main/INFO]: Discovered 0 total mod(s), injected 0 tweak(s)
+[15:24:59] [main/INFO]: No mod classes were found. Not loading any mods.
+[15:26:20] [main/INFO]: Baking listener list for ViewportListener with 0 listeners
+[15:26:20] [main/INFO]: Sound handler reload inhibit removed
+[15:26:20] [main/INFO]: Reloading sound handler
+[15:26:22] [main/INFO]: Baking listener list for GameLoopListener with 0 listeners
+[15:26:22] [main/INFO]: Baking listener list for RenderListener with 0 listeners
+[15:26:23] [main/INFO]: Baking listener list for TickObserver with 3 listeners
+[15:26:23] [main/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[15:26:23] [main/INFO]: Baking listener list for Tickable with 0 listeners
+[15:26:23] [main/INFO]: Baking listener list for FrameBufferListener with 0 listeners
+[15:26:36] [main/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
+[15:26:43] [Server thread/INFO]: Baking listener list for IEventState with 0 listeners
+[15:26:43] [Server thread/INFO]: Baking listener list for ServerTickable with 0 listeners
+[15:26:47] [Netty Server IO #1/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
+[15:26:47] [Netty Server IO #1/INFO]: Successfully generated event handler proxy class with 122 handlers(s) and 122 total invocations
+[15:26:47] [Netty Local Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
+[15:26:47] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
+[15:26:47] [Server thread/INFO]: Baking listener list for IEventState with 1 listeners
+[15:26:47] [main/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
+[15:26:52] [main/INFO]: Baking listener list for JoinGameListener with 0 listeners
+[15:26:57] [main/INFO]: Baking listener list for PreRenderListener with 0 listeners
+[15:26:57] [main/INFO]: Baking listener list for PostRenderListener with 0 listeners
+[15:26:57] [main/INFO]: Baking listener list for HUDRenderListener with 0 listeners
+[15:26:57] [main/INFO]: Baking listener list for WorldObserver with 2 listeners
+[15:26:58] [main/INFO]: Baking listener list for ChatListener with 0 listeners
+[15:26:59] [Server thread/INFO]: Baking listener list for PlayerMoveListener with 0 listeners
+[15:27:03] [main/INFO]: Baking listener list for EntityRenderListener with 0 listeners
+[15:27:47] [main/INFO]: Baking listener list for PlayerClickListener with 0 listeners
+[15:27:47] [Server thread/INFO]: Baking listener list for PlayerInteractionListener with 0 listeners
+[15:40:33] [main/INFO]: Baking listener list for OutboundChatFilter with 0 listeners
+[15:40:33] [Server thread/INFO]: Baking listener list for ServerChatFilter with 0 listeners

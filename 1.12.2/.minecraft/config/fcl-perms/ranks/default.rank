@@ -1,0 +1,10 @@
+{
+  "ID": "default",
+  "Name": "Default",
+  "Permissions": {
+    "fcl.permissions.edit": false,
+    "general.block.break": true,
+    "general.block.place": true
+  },
+  "Prefix": "def-rank"
+}

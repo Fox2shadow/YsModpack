@@ -1,0 +1,63 @@
+{
+  "last": "Default",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "C:\\Users\\Administrator\\AppData\\Roaming\\.minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "theme": "#42a5f5",
+  "localization": "def",
+  "downloadType": "mojang",
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": true,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 1024,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_171",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": true,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": "E:\\AiL-1981\\1.12.2\\jre-x64\\bin\\java.exe"
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": false,
+      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.4.2739"
+    }
+  },
+  "accounts": [
+    {
+      "uuid": "052c4b4f04c13828b3572b7792b99d94",
+      "username": "Lex",
+      "type": "offline",
+      "selected": true
+    },
+    {
+      "uuid": "165fc12a10a83560af34199583db45d8",
+      "username": "(1QAQ1)",
+      "type": "offline"
+    }
+  ],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 5000,
+  "authlibInjectorServers": [],
+  "updateChannel": "STABLE",
+  "_version": 0,
+  "uiVersion": 0
+}
