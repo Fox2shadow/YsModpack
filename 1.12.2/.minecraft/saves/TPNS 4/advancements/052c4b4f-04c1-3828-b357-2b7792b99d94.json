@@ -35,9 +35,22 @@
     },
     "done": true
   },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2020-03-11 09:27:57 +0800",
+      "inv_changed-enderio:block_simple_alloy_smelter": "2020-03-11 09:27:27 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-03 16:16:39 +0800"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/2_energy_conduit_enhanced": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_enhanced": "2020-03-11 09:25:45 +0800"
     },
     "done": true
   },
@@ -155,6 +168,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2020-03-11 09:27:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-04 12:05:24 +0800"
@@ -263,6 +282,12 @@
     },
     "done": true
   },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2020-03-11 09:25:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-03 16:16:39 +0800"
@@ -293,9 +318,21 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2020-03-11 09:25:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-03 16:42:46 +0800"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2020-03-11 09:25:42 +0800"
     },
     "done": true
   },
@@ -326,6 +363,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2020-03-04 11:41:39 +0800"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/stirling/1_stirling_generator_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_stirling_generator": "2020-03-11 09:27:57 +0800"
     },
     "done": true
   },
@@ -508,6 +551,14 @@
       "entered_water": "2020-03-03 16:18:04 +0800"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_enhanced2": "2020-03-11 09:25:45 +0800",
+      "inv_changed-enderio:power_conduit_ender2": "2020-03-11 09:25:42 +0800",
+      "inv_changed-enderio:redstone_conduit2": "2020-03-11 09:25:52 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
