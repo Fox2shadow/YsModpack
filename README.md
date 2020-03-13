@@ -1,7 +1,8 @@
-# MCMP
+## YsModpack
 Yousit's Minecraft Modpack  
-`Java` `Lua` `Linux`  
+
 ### 模组列表(MOD list)
+----
 高级机械(AdvancedMachines)  
 高级太阳能(AdvancedSolarPanel)  
 星际之门(AUINS Stargate)  
@@ -29,8 +30,10 @@ modelloader(modelloader)
 NEI物品管理(Not Enough Items)  
 高清修复(Optifine)  
 传送门方块(Portal Block)  
+实用物流监控2(Practical Logistics 2)  
 真实地形生成(Realistic Terrain Generation)  
 红石通量(Redstone Flux API)  
+声纳核心(Sonar Core)
 图特斯的电梯 前置(ThutCore)  
 图特斯的电梯(Thut's Elevators)  
 网状智能系统(tis100)  
@@ -39,6 +42,7 @@ NEI物品管理(Not Enough Items)
 泽塔重工(Zetta Industries)  
 
 ### 存档列表(Save list)
+----
 Server EnginX Facility  
 TPNS 4  
 
