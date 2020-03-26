@@ -40,6 +40,5 @@ NEI物品管理(Not Enough Items)
 图特斯的电梯(Thut's Elevators)  
 网状智能系统(tis100)  
 无线开关(Wireless Switch)  
-创世神(WorldEdit)  
 泽塔重工(Zetta Industries)  
 
