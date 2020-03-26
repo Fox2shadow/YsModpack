@@ -24,6 +24,8 @@ JEI物品管理(Just Enough Items)
 LiteLoader(LiteLoader)  
 更多门 前置(MalisisCore)  
 更多门(MalisisDoors)  
+通用机械(Mekanism)  
+通用机械发电机(Mekanism Generators)  
 内存优化(Memory Cleaner)  
 更多告示牌(MoarSigns)  
 modelloader(modelloader)  
@@ -40,9 +42,4 @@ NEI物品管理(Not Enough Items)
 无线开关(Wireless Switch)  
 创世神(WorldEdit)  
 泽塔重工(Zetta Industries)  
-
-### 存档列表(Save list)
-----
-Server EnginX Facility  
-TPNS 4  
 
